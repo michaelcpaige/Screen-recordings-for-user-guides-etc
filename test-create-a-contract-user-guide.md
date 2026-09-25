@@ -1,6 +1,6 @@
 # Test User Guide: Create a Contract
 
-This guide was generated from the Edge recording JSON file `test create a contrcat.json`.
+This guide was generated from the uploaded Edge recording JSON for **Create a Contract**.
 
 ## Purpose
 Use this test to verify that a user can open the **New Contract** form and enter the core contract details.
