@@ -1,0 +1,378 @@
+{
+    "title": "test create a contrcat",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 973,
+            "height": 732,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://v-vsncrea-p01.tvo.org/WebPages/#/app/acquisitions/contracts",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://v-vsncrea-p01.tvo.org/WebPages/#/app/acquisitions/contracts",
+                    "title": "VSNCrea"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.BigButton span.jss876 > span"
+                ],
+                [
+                    "xpath///*[@id=\"createButton\"]/span[1]/span"
+                ],
+                [
+                    "pierce/div.BigButton span.jss876 > span"
+                ],
+                [
+                    "text/New"
+                ]
+            ],
+            "offsetY": 5.8000030517578125,
+            "offsetX": 16.71875
+        },
+        {
+            "type": "change",
+            "value": "te",
+            "selectors": [
+                [
+                    "aria/Name"
+                ],
+                [
+                    "#input_7076"
+                ],
+                [
+                    "xpath///*[@id=\"input_7076\"]"
+                ],
+                [
+                    "pierce/#input_7076"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Name"
+                ],
+                [
+                    "#input_7076"
+                ],
+                [
+                    "xpath///*[@id=\"input_7076\"]"
+                ],
+                [
+                    "pierce/#input_7076"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 154
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Name"
+                ],
+                [
+                    "#input_7076"
+                ],
+                [
+                    "xpath///*[@id=\"input_7076\"]"
+                ],
+                [
+                    "pierce/#input_7076"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 115
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Name"
+                ],
+                [
+                    "#input_7076"
+                ],
+                [
+                    "xpath///*[@id=\"input_7076\"]"
+                ],
+                [
+                    "pierce/#input_7076"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 113
+        },
+        {
+            "type": "change",
+            "value": "test",
+            "selectors": [
+                [
+                    "aria/Name"
+                ],
+                [
+                    "#input_7076"
+                ],
+                [
+                    "xpath///*[@id=\"input_7076\"]"
+                ],
+                [
+                    "pierce/#input_7076"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(6) div.Select-placeholder"
+                ],
+                [
+                    "xpath///*[@id=\"popover-select-64169\"]/div/div/span[1]/div[1]"
+                ],
+                [
+                    "pierce/div:nth-of-type(6) div.Select-placeholder"
+                ],
+                [
+                    "text/Select Department"
+                ]
+            ],
+            "offsetY": 4,
+            "offsetX": 108.29998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(6) div.Select-placeholder"
+                ],
+                [
+                    "xpath///*[@id=\"popover-select-64169\"]/div/div/span[1]/div[1]"
+                ],
+                [
+                    "pierce/div:nth-of-type(6) div.Select-placeholder"
+                ],
+                [
+                    "text/Select Department"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 106.29998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(6) div.Select-placeholder"
+                ],
+                [
+                    "xpath///*[@id=\"popover-select-64169\"]/div/div/span[1]/div[1]"
+                ],
+                [
+                    "pierce/div:nth-of-type(6) div.Select-placeholder"
+                ],
+                [
+                    "text/Select Department"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 106.29998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(2) li:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"popover-select-dialog-list\"]/li[1]"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) li:nth-of-type(1)"
+                ],
+                [
+                    "text/Adult"
+                ]
+            ],
+            "offsetY": 26.199981689453125,
+            "offsetX": 126.20001220703125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Fiscal year"
+                ],
+                [
+                    "div:nth-of-type(8) input"
+                ],
+                [
+                    "xpath///*[@id=\"formScroll_25113\"]/div/div[2]/div/div[1]/div[2]/div/div[8]/div[2]/div/div/div/input"
+                ],
+                [
+                    "pierce/div:nth-of-type(8) input"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 119.29998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Fiscal year"
+                ],
+                [
+                    "div:nth-of-type(8) input"
+                ],
+                [
+                    "xpath///*[@id=\"formScroll_25113\"]/div/div[2]/div/div[1]/div[2]/div/div[8]/div[2]/div/div/div/input"
+                ],
+                [
+                    "pierce/div:nth-of-type(8) input"
+                ]
+            ],
+            "offsetY": 8,
+            "offsetX": 105.29998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Fiscal year"
+                ],
+                [
+                    "div:nth-of-type(8) input"
+                ],
+                [
+                    "xpath///*[@id=\"formScroll_25113\"]/div/div[2]/div/div[1]/div[2]/div/div[8]/div[2]/div/div/div/input"
+                ],
+                [
+                    "pierce/div:nth-of-type(8) input"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 65.29998779296875
+        },
+        {
+            "type": "change",
+            "value": "1999",
+            "selectors": [
+                [
+                    "aria/Fiscal year"
+                ],
+                [
+                    "div:nth-of-type(8) input"
+                ],
+                [
+                    "xpath///*[@id=\"formScroll_25113\"]/div/div[2]/div/div[1]/div[2]/div/div[8]/div[2]/div/div/div/input"
+                ],
+                [
+                    "pierce/div:nth-of-type(8) input"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Description"
+                ],
+                [
+                    "#input_6372"
+                ],
+                [
+                    "xpath///*[@id=\"input_6372\"]"
+                ],
+                [
+                    "pierce/#input_6372"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 75
+        },
+        {
+            "type": "change",
+            "value": "desc",
+            "selectors": [
+                [
+                    "aria/Description"
+                ],
+                [
+                    "#input_6372"
+                ],
+                [
+                    "xpath///*[@id=\"input_6372\"]"
+                ],
+                [
+                    "pierce/#input_6372"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) div.Select-placeholder"
+                ],
+                [
+                    "xpath///*[@id=\"popover-select-77049\"]/div/div/span[1]/div[1]"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) div.Select-placeholder"
+                ],
+                [
+                    "text/Select Contract type"
+                ]
+            ],
+            "offsetY": 5,
+            "offsetX": 115
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(2) li:nth-of-type(1)"
+                ],
+                [
+                    "xpath///*[@id=\"popover-select-dialog-list\"]/li[1]"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) li:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 21.199981689453125,
+            "offsetX": 113.19999694824219
+        }
+    ]
+}
